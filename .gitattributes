@@ -1,6 +1,5 @@
-*.html linguist-detectable=true
 *.lua linguist-detectable=true
-*.rs linguist-detectable=true
-
 *.lua linguist-language=Lua
+
+*.rs linguist-detectable=true
 *.rs linguist-language=Rust
